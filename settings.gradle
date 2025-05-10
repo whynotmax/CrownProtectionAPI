@@ -1,0 +1,3 @@
+rootProject.name = 'CrownProtection'
+include 'plugin'
+include 'api'

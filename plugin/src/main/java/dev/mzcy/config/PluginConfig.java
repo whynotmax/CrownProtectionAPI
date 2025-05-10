@@ -1,0 +1,4 @@
+package dev.mzcy.config;
+
+public class PluginConfig {
+}
