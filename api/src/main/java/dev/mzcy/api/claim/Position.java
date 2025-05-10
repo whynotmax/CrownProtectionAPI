@@ -1,6 +1,7 @@
 package dev.mzcy.api.claim;
 
 import lombok.Getter;
+import lombok.Setter;
 
 /**
  * Represents a position in a specific world with x, y, and z coordinates.

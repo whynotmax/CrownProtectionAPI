@@ -1,5 +1,8 @@
-package dev.mzcy.api.claim;
+package dev.mzcy.api.claim.model;
 
+import dev.mzcy.api.claim.Position;
+
+import java.io.Serializable;
 import java.util.Set;
 import java.util.UUID;
 
@@ -7,7 +10,7 @@ import java.util.UUID;
  * Represents a claim in the system, which is a defined area owned by a player.
  * A claim has an owner, trusted players, and two corners defining its boundaries.
  */
-public interface Claim {
+public interface Claim extends Serializable {
 
     /**
      * Gets the UUID of the owner of the claim.

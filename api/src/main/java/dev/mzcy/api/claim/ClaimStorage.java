@@ -1,5 +1,7 @@
 package dev.mzcy.api.claim;
 
+import dev.mzcy.api.claim.model.Claim;
+
 import java.util.List;
 import java.util.Optional;
 

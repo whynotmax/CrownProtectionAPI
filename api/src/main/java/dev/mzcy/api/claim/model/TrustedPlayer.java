@@ -1,4 +1,4 @@
-package dev.mzcy.api.claim;
+package dev.mzcy.api.claim.model;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

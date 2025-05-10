@@ -1,0 +1,33 @@
+package dev.mzcy.api.language.exception;
+
+/**
+ * Exception thrown when a translation is not found.
+ */
+public class NoSuchTranslationException extends RuntimeException {
+
+    /**
+     * Constructs a new NoSuchTranslationException with no specified detail message.
+     */
+    public NoSuchTranslationException() {
+        super("No such translation found.");
+    }
+
+    /**
+     * Constructs a new NoSuchTranslationException with the specified detail message.
+     *
+     * @param message the detail message
+     */
+    public NoSuchTranslationException(String message) {
+        super("No such translation found: " + message);
+    }
+
+    /**
+     * Constructs a new NoSuchTranslationException with the specified detail message and cause.
+     *
+     * @param message the detail message
+     * @param cause   the cause of the exception
+     */
+    public NoSuchTranslationException(String message, Throwable cause) {
+        super(message, cause);
+    }
+}
