@@ -12,7 +12,7 @@
 
 If you discover a security vulnerability in the Crown Protection system, please report it to us immediately. Follow the steps below:
 
-1. **Contact**: Send an email to `security@mzcy.dev` with the details of the vulnerability.
+1. **Contact**: Send an email to `security@mzcy.dev` OR create a new issue with the details of the vulnerability.
 2. **Details to Include**:
    - A clear and concise description of the vulnerability.
    - Steps to reproduce the issue.
