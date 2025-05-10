@@ -2,6 +2,8 @@ package com.crownprotection.api;
 
 import com.crownprotection.api.claim.ClaimManager;
 import com.crownprotection.api.claim.ClaimStorage;
+import com.crownprotection.api.player.PlayerManager;
+import com.crownprotection.api.player.PlayerStorage;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.jetbrains.annotations.ApiStatus;
 
@@ -66,5 +68,19 @@ public abstract class CrownProtectionAPI extends JavaPlugin {
      * @return the ClaimStorage instance.
      */
     public abstract ClaimStorage getClaimStorage();
+
+    /**
+     * Retrieves the player manager responsible for managing players.
+     *
+     * @return the PlayerManager instance.
+     */
+    public abstract PlayerManager getPlayerManager();
+
+    /**
+     * Retrieves the player storage responsible for persisting player data.
+     *
+     * @return the PlayerStorage instance.
+     */
+    public abstract PlayerStorage getPlayerStorage();
 
 }
