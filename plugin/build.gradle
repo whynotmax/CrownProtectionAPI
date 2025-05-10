@@ -1,6 +1,0 @@
-dependencies {
-    implementation project(":api")
-
-    compileOnly 'org.mongodb:mongodb-driver-sync:5.5.0'
-    compileOnly 'com.zaxxer:HikariCP:6.3.0'
-}
