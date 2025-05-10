@@ -1,6 +1,6 @@
-package dev.mzcy.api.claim.model;
+package com.crownprotection.api.claim.model;
 
-import dev.mzcy.api.claim.Position;
+import com.crownprotection.api.claim.Position;
 
 import java.io.Serializable;
 import java.util.Set;

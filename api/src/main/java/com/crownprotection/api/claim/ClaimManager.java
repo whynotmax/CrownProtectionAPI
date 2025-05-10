@@ -1,6 +1,7 @@
-package dev.mzcy.api.claim;
+package com.crownprotection.api.claim;
 
-import dev.mzcy.api.claim.model.Claim;
+import com.crownprotection.api.claim.model.Claim;
+import org.jetbrains.annotations.ApiStatus;
 
 import java.util.List;
 import java.util.Optional;
@@ -53,11 +54,15 @@ public interface ClaimManager {
 
     /**
      * Loads all claims from persistent storage.
+     * @implNote This method is intended for internal use only and should not be called directly.
      */
+    @ApiStatus.Internal
     void loadClaims();
 
     /**
      * Saves all claims to persistent storage.
+     * @implNote This method is intended for internal use only and should not be called directly.
      */
+    @ApiStatus.Internal
     void saveClaims();
 }

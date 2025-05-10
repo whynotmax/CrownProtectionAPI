@@ -1,4 +1,4 @@
-package dev.mzcy.api.language.mapping;
+package com.crownprotection.api.language.mapping;
 
 import org.jetbrains.annotations.NotNull;
 

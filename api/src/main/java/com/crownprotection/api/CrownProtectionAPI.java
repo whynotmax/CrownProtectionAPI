@@ -1,7 +1,7 @@
-package dev.mzcy.api;
+package com.crownprotection.api;
 
-import dev.mzcy.api.claim.ClaimManager;
-import dev.mzcy.api.claim.ClaimStorage;
+import com.crownprotection.api.claim.ClaimManager;
+import com.crownprotection.api.claim.ClaimStorage;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.jetbrains.annotations.ApiStatus;
 

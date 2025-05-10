@@ -1,4 +1,4 @@
-package dev.mzcy.api.claim.model;
+package com.crownprotection.api.claim.model;
 
 /**
  * Represents the different types of permissions that can be assigned within a claim.

@@ -1,8 +1,8 @@
-package dev.mzcy.api.language;
+package com.crownprotection.api.language;
 
-import dev.mzcy.api.language.exception.NoSuchArgumentException;
-import dev.mzcy.api.language.exception.NoSuchTranslationException;
-import dev.mzcy.api.language.mapping.ArgumentMapping;
+import com.crownprotection.api.language.exception.NoSuchArgumentException;
+import com.crownprotection.api.language.exception.NoSuchTranslationException;
+import com.crownprotection.api.language.mapping.ArgumentMapping;
 
 /**
  * This interface is responsible for managing translations within the application.

@@ -1,4 +1,4 @@
-package dev.mzcy.api.language.exception;
+package com.crownprotection.api.language.exception;
 
 /**
  * Exception thrown when a translation is not found.

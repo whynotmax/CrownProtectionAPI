@@ -1,7 +1,4 @@
-package dev.mzcy.api.claim;
-
-import lombok.Getter;
-import lombok.Setter;
+package com.crownprotection.api.claim;
 
 /**
  * Represents a position in a specific world with x, y, and z coordinates.

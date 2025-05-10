@@ -1,6 +1,6 @@
-package dev.mzcy.api.claim;
+package com.crownprotection.api.claim;
 
-import dev.mzcy.api.claim.model.Claim;
+import com.crownprotection.api.claim.model.Claim;
 
 import java.util.List;
 import java.util.Optional;

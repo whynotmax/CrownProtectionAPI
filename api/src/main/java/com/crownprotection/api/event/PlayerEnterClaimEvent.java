@@ -1,4 +1,4 @@
-package dev.mzcy.api.event;
+package com.crownprotection.api.event;
 
 public class PlayerEnterClaimEvent {
 }
