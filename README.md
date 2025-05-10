@@ -2,7 +2,7 @@
 
 ## Overview
 CrownProtection is a powerful and flexible tool designed to enhance the security of your Minecraft server. It provides a range of features to protect your world from unwanted changes, including block protection, region management, and more.
-You can buy the plugin on here: [SpigotMC](https://www.spigotmc.org/resources/crownprotection.1111111/) [BuildByBit](https://buildbybit.com/resources/crownprotection.1111111/) [MC-Market](https://www.mc-market.org/resources/crownprotection.1111111/) [MC-Market](https://www.mc-market.org/resources/crownprotection.1111111/) [MC-Market](https://www.mc-market.org/resources/crownprotection.1111111/) [MC-Market](https://www.mc-market.org/resources/crownprotection.1111111/) [MC-Market](https://www.mc-market.org/resources/crownprotection.1111111/)
+You can buy the plugin on here: [SpigotMC](https://www.spigotmc.org/resources/crownprotection.1111111/) [BuildByBit](https://buildbybit.com/resources/crownprotection.1111111/) [MC-Market](https://www.mc-market.org/resources/crownprotection.1111111/) 
 
 ## Developer API
 
